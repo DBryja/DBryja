@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic IT student eager to become a proffesional Web Developer.</h3>
 
 - 🌱 I’m currently learning **NextJS**
-
+- 📫 How to reach me **dawbryja@gmail.com**
 - 👨‍💻 All of my projects are available at [bryja.vercel.app](bryja.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
