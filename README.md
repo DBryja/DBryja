@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dawid Bryja</h1>
 <h3 align="center">An enthusiastic IT student eager to become a proffesional Web Developer.</h3>
 
