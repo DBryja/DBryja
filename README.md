@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Dawid Bryja</h1>
 <h3 align="center">An enthusiastic IT student eager to become a proffesional Web Developer.</h3>
+<img align="right" src="./spinning-dog.gif" alt="spinning dog :ooo" width="120" height="120"/>
 
 - 📫 How to reach me **dawbryja@gmail.com**
 - 👨‍💻 All of my projects are available at [bryja.vercel.app](bryja.vercel.app)
