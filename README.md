@@ -2,16 +2,16 @@
 <h3 align="center">An enthusiastic IT student eager to become a professional Web Developer.</h3>
 <img align="right" src="./spinning-dog.gif" alt="spinning dog :ooo" width="120" height="120"/>
 
-- 📫 How to reach me **dawbryja@gmail.com**
-- 👨‍💻 All of my projects are available at [**bryja.vercel.app**](https://bryja.vercel.app)
-
-<h3 align="left">Connect with me:</h3>
+<hr/>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryjad" height="30" width="40" /></a>
 <a href="https://fb.com/bryjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryjad" height="30" width="40" /></a>
 <a href="https://discord.gg/1027836544859508817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027836544859508817" height="30" width="40" /></a>
 </p>
-
+- 📫 Via email: <a href="mailto:dawbryja@gmail.com"><b>dawbryja@gmail.com</b></a><br/>
+- 🐱‍💻 Check out my website: <a href="https://bryja.vercel.app"><b>bryja.vercel.com</b></a>
+<hr/>
 <h3 align="left">Confident with:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="25"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm" height="25"/>
 </p>
-
+<hr/>
 <h3 align="left">Familiar with:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" height="25"/> 
@@ -39,8 +39,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="25"/> 
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" height="25"/> 
 </p>
-
-<h3 align="left">Willing to learn in the close future:</h3>
+<hr/>
+<h3 align="left">On the horizon:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25"/> 
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS" height="25"/>
