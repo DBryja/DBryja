@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bryjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryjad" height="30" width="40" /></a>
 <a href="https://fb.com/bryjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryjad" height="30" width="40" /></a>
-<a href="https://discord.gg/1027836544859508817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027836544859508817" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/1027836544859508817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027836544859508817" height="30" width="40" /></a> -->
 </p>
 - 📫 Via email: <a href="mailto:dawbryja@gmail.com"><b>dawbryja@gmail.com</b></a><br/>
 - 🐱‍💻 Check out my website: <a href="https://bryja.vercel.app"><b>bryja.vercel.com</b></a>
