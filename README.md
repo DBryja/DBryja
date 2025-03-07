@@ -10,7 +10,7 @@
 <!-- <a href="https://discord.gg/1027836544859508817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027836544859508817" height="30" width="40" /></a> -->
 </p>
 - 📫 Via email: <a href="mailto:dawbryja@gmail.com"><b>dawbryja@gmail.com</b></a><br/>
-- 🐱‍💻 Check out my website: <a href="https://bryja.vercel.app"><b>bryja.vercel.com</b></a>
+- 🐱‍💻 Check out my website: <a href="https://dbryja.pl"><b>dbryja.pl</b></a>
 <hr/>
 <h3 align="left">Confident with:</h3>
 <p align="left"> 
